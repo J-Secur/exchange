@@ -7,12 +7,12 @@
 // ── Configuration Firebase ────────────────────────────────────────
 // Remplacez ces valeurs par celles de votre projet Firebase Console
 const firebaseConfig = {
-  apiKey            : "votre-api-key",
-  authDomain        : "votre-project.firebaseapp.com",
-  projectId         : "votre-project-id",
-  storageBucket     : "votre-project.appspot.com",
-  messagingSenderId : "votre-sender-id",
-  appId             : "votre-app-id"
+  apiKey: "AIzaSyDydYcDnUeuHuIpIFYWOoJoxsDtgCthabg",
+  authDomain: "j-secur-daa73.firebaseapp.com",
+  projectId: "j-secur-daa73",
+  storageBucket: "j-secur-daa73.firebasestorage.app",
+  messagingSenderId: "51855816513",
+  appId: "1:51855816513:web:05a1675b5d68fc88acd3c0"
 };
 
 // ── Init Firebase ─────────────────────────────────────────────────
